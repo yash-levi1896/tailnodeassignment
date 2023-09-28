@@ -57,7 +57,7 @@ Before setting up the project, ensure you have the following dependencies instal
 
 ## Functionality
 
-1. Navigate to root directory:
+1. Navigate to assignment directory:
    cd assignment
 
 2. For assignment part A:
