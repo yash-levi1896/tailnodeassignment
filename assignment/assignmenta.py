@@ -14,7 +14,7 @@ headers = {
 
 # Establish the database connection
 connect(
-    db="TailNode",  
+    DB="TailNode",  
     host=os.environ.get('MongoURL'),
 )
 db_client = connect_to_database()
