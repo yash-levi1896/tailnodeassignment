@@ -50,7 +50,7 @@ Before setting up the project, ensure you have the following dependencies instal
    pip install -r requirements.txt 
 
 
-7. Create a .env file in the project root and configure your environment variables:
+7. Create a .env file in the assignment directory and configure your environment variables:
 
    ```bash
    MongoURL=your-mongodb-connection-uri 
