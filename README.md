@@ -55,6 +55,10 @@ Before setting up the project, ensure you have the following dependencies instal
    ```bash
    MongoURL=your-mongodb-connection-uri 
 
+8. Database Name:
+   ```bash
+     DB=TailNode
+
 ## Functionality
 
 1. Navigate to assignment directory:
